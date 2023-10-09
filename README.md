@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Web Development Project. <br/>
+Web Development Project<br/>
 </p>
 
 <p align="center">
