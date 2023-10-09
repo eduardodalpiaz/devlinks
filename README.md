@@ -19,7 +19,7 @@ Web Development Project. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://imageupload.io/iDcz8WMS7aBcxmT" width="100%">
+  <img alt="project DevLinks" src="./assets/prints.png" width="100%">
 </p>
 
 ## 🚀 Technologies
